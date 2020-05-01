@@ -12,7 +12,6 @@ so I encourage you to get into your own Wiki hole on the subject.
 I’ve provided some resources below to get you started. 
 
 
-
 Virtual Dumpster Fire
 
 In this case a literal dumpster fire would be much easier than this section. 
@@ -44,8 +43,7 @@ Go have a snack. It might be a while.
 Once your Mac is squeaky clean create a NEW iCloud account and we’ll go over rebuilding and hardening in the next section. 
 
 
-
- Windows 
+Windows 
 
 Sign out of your Microsoft Account and everything else possible. 
 If you’re tech savvy, install a fresh copy of your OS to a USB/External Hard Drive, plug it in, 
@@ -56,7 +54,6 @@ Click “Update and Recovery” > “Recovery”
 Select “Remove Everything and Reinstall Windows”
 Proceed to follow the instructions. 
 If asked which you prefer, the fastest or the most secure, always select the most secure. 
-
 
 
 Email 
@@ -71,16 +68,7 @@ Once you’re finished deleting them, you must go into your trash, select them a
 and click “Permanently Delete.” 
 
 Google Hangouts Chat streams must be deleted individually, which in all honesty is a nightmare, but important and necessary.
-
-Create all new emails, create one for your payment apps, one for your iCloud, one for professional stuff, 
-one for family and friends. 
-Separate your accounts as much as possible so if one thing gets popped, you don't have to run around trying to 
-figure out what else is. 
-It's best practice to create ALL new emails and phone numbers every six months-year. Drug dealers do this every single month
-so do what you will with that information. 
-
 Leaving as small of a digital footprint as possible is smart no matter what you’ve got going on in your life. 
-
 
 
 Mobile 
@@ -89,19 +77,6 @@ These steps are relatively the same for iPhone and Android. Sign out, reset, del
 You can contact Apple and they will delete your entire iCloud account, so you can create a new one and start fresh. 
 
 
-Payment Apps
-
-Your real name, purchases and payments, (and sometimes your phone number, email/mailing address) are not private by default. 
-Create a separate username for your Venmo, CashApp and PayPal.
-Put your hangouts number instead of your real number. 
-Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
-
-
-Security Questions
-
-Make sure all of the answers to your security questions are WRONG. 
-Create a system for yourself, like "What is your mother's maiden name?" the answer would be "12" or "blonde." 
-You should be using LastPass and going through so many email addresses this should never be much of a concern, anyway. 
 
 
 Rebuilding and Prevention 
@@ -111,6 +86,28 @@ There’s something freeing about having a clean slate. However, you’re not ou
 Did you know that if you leave your phone next to a radio on a Spanish channel over-night, when you wake up, 
 all of your ads will be in Spanish? So stick with me, kid and let’s knock this out. 
 
+
+Security Questions
+
+Make sure all of the answers to your security questions are WRONG. 
+Create a system for yourself, like "What is your mother's maiden name?" the answer would be "12" or "blonde." 
+You should be using LastPass and going through so many email addresses this should never be much of a concern, anyway. 
+
+Create all new emails, create one for your payment apps, one for your iCloud, one for professional stuff, 
+one for family and friends. 
+Separate your accounts as much as possible so if one thing gets popped, you don't have to run around trying to 
+figure out what else is. 
+It's best practice to create ALL new emails and phone numbers every six months-year. 
+Drug dealers do this every single month
+so do what you will with that information. 
+
+
+Payment Apps
+
+Your real name, purchases and payments, (and sometimes your phone number, email/mailing address) are not private by default. 
+Create a separate username for your Venmo, CashApp and PayPal.
+Put your hangouts number instead of your real number. 
+Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
 
 
 Mac 
@@ -163,7 +160,6 @@ it will have a pop up. You will then be able to insert your Admin Username and P
 don’t have to switch back and forth. 
 
 
-
 Windows 
 
 Once your PC is so fresh and so clean, it’s EXTREMELY important to go through these next steps immediately, 
@@ -193,7 +189,6 @@ In Windows Administrative Tools > Services > Make sure that Microsoft Sign-in As
 Check for updates regularly. 
 
 
-
 Mobile 
 
 If you’re on iPhone, you’re at a slghtly less risk because every app installed on an iPhone has to be approved/created by a 
@@ -211,7 +206,6 @@ This goes for access to your Contacts, Photos, Location, etc.
 Turn off Location Services. 
 Turn off Find My iPhone. 
 You can set Map applications to only allow your location when the app is being used. 
-
 
 
 Passwords 
@@ -232,7 +226,6 @@ are different, and if you have trouble thinking of more than one strong password
 strongest. 
 Do not use real words. !f Y0u Mu$7 U$3 $0m37h!ng l!K3 7h!$ Words you think are random have already been thought of by 
 malicious hackers (wordlists are available freely) and are definitely not random.
-
 
 
 Home WiFi Security
@@ -258,7 +251,6 @@ you’ll need to be able to get in and out easily to mess with the Firewall Secu
 Disable IPv6 entirely. 
 Disable anything else you’re not using, if you’re not sure what something is, Google it. 
 Disable port 1900 UPnP. (This is a common thing you will need to revisit if something does not work). 
-
 
 
 Browser Settings 
