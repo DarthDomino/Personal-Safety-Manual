@@ -120,6 +120,15 @@ or you may get infected again and have to do the last steps all over.
 Which I’ve had to do and I really kicked myself for it. 
 Get a piece of duct-tape (I have a roll of Batman duct-tape just for this) and cover your Mac’s webcam. 
 Forget your webcam exists. Sorry ‘bout it. Trust me you don’t want it.
+Install "Little Snitch" and its little brother "Micro Snitch." 
+Little Snitch alerts you to every single connection coming and going to your Mac. 
+Really spend some time getting to know Little Snitch, it's your new best friend. 
+Google what certain daemons do, what connections to look out for. Guaranteed there's an article on every one, somewhere. 
+Really don't be lazy with it, when it asks you how long the connection is allowed, NEVER say "Forever" unless it's absolutely
+crucial to and you're SURE you know what it does. 
+Micro Snitch alerts you every single time your webcam or microphone is accessed. If you're watching Netflix and it turns on, 
+you've got problems. 
+
 Turn off Bluetooth, WiFi, IPv6 and everything you can when you’re not using them. This goes for mobile, too. 
 When you first login, you’re going to create your Admin password. 
 Your Admin account is where you get to have all the super powers. 
