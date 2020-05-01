@@ -91,20 +91,20 @@ Security Questions
 
 Make sure all of the answers to your security questions are WRONG. 
 Create a system for yourself, like "What is your mother's maiden name?" the answer would be "12" or "blonde." 
-You should be using LastPass and going through so many email addresses this should never be much of a concern, anyway. 
+You should be using LastPass (covered below in Passwords) and going through so many email addresses 
+this should never be much of a concern, anyway. 
 
-Create all new emails, create one for your payment apps, one for your iCloud, one for professional stuff, 
+Create all new emails, create one for each of your payment apps, one for your iCloud, one for professional stuff, 
 one for family and friends. 
 Separate your accounts as much as possible so if one thing gets popped, you don't have to run around trying to 
 figure out what else is. 
 It's best practice to create ALL new emails and phone numbers every six months-year. 
-Drug dealers do this every single month
-so do what you will with that information. 
+Drug dealers do this every single month, so do what you will with that information.  
 
 
 Payment Apps
 
-Your real name, purchases and payments, (and sometimes your phone number, email/mailing address) are not private by default. 
+Your real name, transactions, (and sometimes your phone number, email/mailing address) are not private by default. 
 Create a separate username for your Venmo, CashApp and PayPal.
 Put your hangouts number instead of your real number. 
 Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
@@ -117,14 +117,6 @@ or you may get infected again and have to do the last steps all over.
 Which I’ve had to do and I really kicked myself for it. 
 Get a piece of duct-tape (I have a roll of Batman duct-tape just for this) and cover your Mac’s webcam. 
 Forget your webcam exists. Sorry ‘bout it. Trust me you don’t want it.
-Install "Little Snitch" and its little brother "Micro Snitch." 
-Little Snitch alerts you to every single connection coming and going to your Mac. 
-Really spend some time getting to know Little Snitch, it's your new best friend. 
-Google what certain daemons do, what connections to look out for. Guaranteed there's an article on every one, somewhere. 
-Really don't be lazy with it, when it asks you how long the connection is allowed, NEVER say "Forever" unless it's absolutely
-crucial to and you're SURE you know what it does. 
-Micro Snitch alerts you every single time your webcam or microphone is accessed. If you're watching Netflix and it turns on, 
-you've got problems. 
 
 Turn off Bluetooth, WiFi, IPv6 and everything you can when you’re not using them. This goes for mobile, too. 
 When you first login, you’re going to create your Admin password. 
@@ -158,6 +150,16 @@ System Preferences > Security and Privacy > General > Unlock > Select “App Sto
 If for some reason you want to download something not on the app store (like from your browser) if you open General again,
 it will have a pop up. You will then be able to insert your Admin Username and Password from your Guest User account so you
 don’t have to switch back and forth. 
+
+Install "Little Snitch" and its little brother "Micro Snitch." 
+Little Snitch alerts you to every single connection coming and going to your Mac. 
+Really spend some time getting to know Little Snitch, it's your new best friend. 
+Google what certain daemons do, what connections to look out for. Guaranteed there's an article on each one, somewhere. 
+Really don't be lazy with it, when it asks you how long the connection is allowed, NEVER say "Forever" unless it's absolutely
+crucial to and you're SURE you know what it does.
+Which should only be like three things, such as automatic updates. 
+Micro Snitch alerts you every single time your webcam or microphone is accessed. 
+If you're watching Netflix and it turns on, you've got problems. 
 
 
 Windows 
