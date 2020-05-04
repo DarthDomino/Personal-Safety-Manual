@@ -1,4 +1,5 @@
 Introduction: Off the Grid is for Everyone 
+==========================================
 
 Ever been stalked by a hacker? Well I have, and I'm sure many others have too. But you wouldn't know that because there's
 no How-To on how to get the hell out of that sticky situation. Until now. 
@@ -16,6 +17,7 @@ I’ve provided some resources below to get you started.
 
 
 Virtual Dumpster Fire
+---------------------
 
 In this case a literal dumpster fire would be much easier than this section. 
 Rule number one is to NOT GET FRUSTRATED. 
@@ -32,7 +34,7 @@ I’ve left out Social Media entirely, but the best advice is to burn it.
 If you must post, Latergram everything by at least a day.
 
 
-Mac 
+### Mac 
 
 Sign out of iCloud and everything else possible. But especially iCloud. 
 Turn off Find My Mac and Un-encrypt FireVault, if encrypted. These are all found easily in your System Preferences. 
@@ -46,7 +48,7 @@ Go have a snack. It might be a while.
 Once your Mac is squeaky clean create a NEW iCloud account and we’ll go over rebuilding and hardening in the next section. 
 
 
-Windows 
+### Windows 
 
 Sign out of your Microsoft Account and everything else possible. 
 If you’re tech savvy, install a fresh copy of your OS to a USB/External Hard Drive, plug it in, 
@@ -59,7 +61,7 @@ Proceed to follow the instructions.
 If asked which you prefer, the fastest or the most secure, always select the most secure. 
 
 
-Email 
+### Email 
 
 This is when patience begins to play a part. I recently went through an entire Gmail account, 
 with a Google Number attached to it (something I’ll cover in later sections). 
@@ -74,15 +76,14 @@ Google Hangouts Chat streams must be deleted individually, which in all honesty 
 Leaving as small of a digital footprint as possible is smart no matter what you’ve got going on in your life. 
 
 
-Mobile 
+### Mobile 
 
 These steps are relatively the same for iPhone and Android. Sign out, reset, delete everything. 
 You can contact Apple and they will delete your entire iCloud account, so you can create a new one and start fresh. 
 
 
-
-
 Rebuilding and Prevention 
+-------------------------
 
 If you’ve made it this far, you’re hopefully already feeling more comfortable with your electronics. 
 There’s something freeing about having a clean slate. However, you’re not out of the woods, yet. 
@@ -90,7 +91,7 @@ Did you know that if you leave your phone next to a radio on a Spanish channel o
 all of your ads will be in Spanish? So stick with me, kid and let’s knock this out. 
 
 
-Security Questions
+### Security Questions
 
 Make sure all of the answers to your security questions are WRONG. 
 Create a system for yourself, like "What is your mother's maiden name?" the answer would be "12" or "blonde." 
@@ -105,7 +106,7 @@ It's best practice to create ALL new emails and phone numbers every six months-y
 Drug dealers do this every single month, so do what you will with that information.  
 
 
-Payment Apps
+### Payment Apps
 
 Your real name, transactions, (and sometimes your phone number, email/mailing address) are not private by default. 
 Create a separate username for your Venmo, CashApp and PayPal.
@@ -113,7 +114,7 @@ Put your hangouts number instead of your real number.
 Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
 
 
-Mac 
+### Mac 
 
 Once your Mac is so fresh and so clean, it’s EXTREMELY important to go through these next steps immediately, 
 or you may get infected again and have to do the last steps all over. 
@@ -165,7 +166,7 @@ Micro Snitch alerts you every single time your webcam or microphone is accessed.
 If you're watching Netflix and it turns on, you've got problems. 
 
 
-Windows 
+### Windows 
 
 Once your PC is so fresh and so clean, it’s EXTREMELY important to go through these next steps immediately, 
 or you may get infected again and have to do the last steps all over. 
@@ -198,7 +199,7 @@ Once the trial (Real-Time Protection) ends, you can either delete and reinstall 
 Be sure to do regular scans. Especially after updates. 
 
 
-Mobile 
+### Mobile 
 
 If you’re on iPhone, you’re at a slghtly less risk because every app installed on an iPhone has to be approved/created by a 
 verified developer. 
@@ -217,7 +218,7 @@ Turn off Find My iPhone.
 You can set Map applications to only allow your location when the app is being used. 
 
 
-Passwords 
+### Passwords 
 
 You should always have strong passwords on every account, and each account should have a different password. 
 If your password is something you can remember off the top of your head, you’re using a bad password. 
@@ -238,7 +239,7 @@ Words you think are random have already been thought of by malicious hackers (wo
 and are definitely not random.
 
 
-Home WiFi Security
+### Home WiFi Security
 
 If you think there is any chance that your home network is compromised, contact your Internet Service Provider 
 (such as AT&T or Time Warner Cable) and ask for a new router. 
@@ -265,7 +266,7 @@ Disable anything else you’re not using, if you’re not sure what something is
 Disable port 1900 UPnP. (This is a common thing you will need to revisit if something does not work). 
 
 
-Browser Settings 
+### Browser Settings 
 
 Go to Windows Defender Security Center > App and Browser Control > Exploit Protection Settings to take a look.
 Program Settings > Add program to customize. A good program to add would be your 3rd party browser.
@@ -294,7 +295,7 @@ Validate stack integrity: off 
 
 
 
-Alternative Phones
+### Alternative Phones
 
 Google Hangouts and Google Voice are apps that work together to create a new phone number. 
 If you use this, each time you make a call, the person on the other end must press “1” in order to accept your call. 
@@ -318,9 +319,7 @@ Private Internet Access is an amazing VPN for mobile. Use it all the time unless
 such as when checking banking apps.   
 
 
-
-
-Dealing with the Police
+### Dealing with the Police
 
 Police will automatically assume it’s a petty lover’s spat, because that’s what they see a hundred times a day. 
 Be adamant. Be honest and open. Advocate for yourself. Don’t be afraid to be compassionately aggressive. 
@@ -365,6 +364,7 @@ Just ask Miss Kennedy Summers (Playmate of the Year 2014).
 
 
 Closing
+-------
 
 ALWAYS KEEP ALL DEVICES UP TO DATE
 Do regular Malware Scans 
@@ -406,11 +406,11 @@ Either by letting it go, never dealing with it again, or sometimes even getting 
 
 
 Resources  
+---------
 
-
-https://discussions.apple.com/docs/DOC-2435
-http://hardenwindows10forsecurity.com/index.html
-https://www.lastpass.com/ 
-https://stackoverflow.com/
-https://github.com/
-https://www.hacksplaining.com/
+* https://discussions.apple.com/docs/DOC-2435
+* http://hardenwindows10forsecurity.com/index.html
+* https://www.lastpass.com/ 
+* https://stackoverflow.com/
+* https://github.com/
+* https://www.hacksplaining.com/
