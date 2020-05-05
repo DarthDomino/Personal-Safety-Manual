@@ -111,7 +111,9 @@ Create all new emails, create one for each of your payment apps, one for your iC
 
 Separate your accounts as much as possible so if one thing gets popped, you don't have to run around trying to figure out what else is. 
 
-It's best practice to create ALL new emails and phone numbers every six months-year. Drug dealers do this every single month, so do what you will with that information.  
+It's best practice to create ALL new emails and phone numbers every six months-year. 
+
+Drug dealers do this every single month, so do what you will with that information.  
 
 
 ### Payment Apps
@@ -122,7 +124,11 @@ Create a separate username for your Venmo, CashApp and PayPal.
 
 Put your hangouts number instead of your real number. 
 
-Virtual Addresses are available at places like PostScanMail.com. You can also use a P.O. Box or simply a past address. I don't have my actual address anywhere online, as all my bills are electronic, or even my driver's license. In fact, ESPECIALLY not on my driver's license. 
+Virtual Addresses are available at places like PostScanMail.com. 
+
+You can also use a P.O. Box or simply a past address. I don't have my actual address anywhere online, as all my bills are electronic, or even on my driver's license. 
+
+In fact, ESPECIALLY not on my driver's license. 
 
 Any profile/picture anywhere can be reverse Google image searched, so if that same image is on a profile with your real name, you can easily be found. 
 
