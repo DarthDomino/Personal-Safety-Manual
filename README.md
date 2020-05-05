@@ -287,12 +287,16 @@ For iPhone in Settings > Passwords & Accounts > Wesite & App Passwords
 As far as passwords for your devices, there’s only so much that you can do. Make sure that your admin and user passwords 
 are different, and if you have trouble thinking of more than one strong password, use LastPass and make sure the admin password is the strongest. 
 
-Do not use real words. !f Y0u Mu$7 U$3 $0m37h!ng l!K3 7h!$ or complete, long setences including the spaces and punctuation. Words you think are random have already been thought of by malicious hackers (wordlists are available freely) and are definitely not random.
+Do not use real words. !f Y0u Mu$7 U$3 $0m37h!ng l!K3 7h!$ or complete, long setences including the spaces and punctuation. 
+
+Words you think are random have already been thought of by malicious hackers (wordlists are available freely) and are definitely not random.
 
 
 ### Home WiFi Security
 
-If you think there is any chance that your home network is compromised, contact your Internet Service Provider (such as AT&T or Time Warner Cable) and ask for a new router. Tell them that you’re getting the error, “Connected, No Internet,” that you’ve done a “power cycle” and for some reason 
+If you think there is any chance that your home network is compromised, contact your Internet Service Provider (such as AT&T or Time Warner Cable) and ask for a new router. 
+
+Tell them that you’re getting the error, “Connected, No Internet,” that you’ve done a “power cycle” and for some reason 
 you still can’t get the internet to work.  
 
 Never tell your ISP you were hacked or are in any way worried about your security. They’ll ask questions there’s no correct answer to. Avoid it altogether. 
@@ -359,7 +363,13 @@ Anyone who is familiar with Hangouts will know this is not your real number. If 
 
 Your Google Hangouts and Google Voice should be under a NEW email address. Having an alternative number to give to strangers is extremely useful and convenient. If someone you don’t want to have your number gets ahold of it, you simply mute them or get a new Hangouts number. Keep as little conversation streams ass possible going when it comes to texts. Delete your emails as they come in and empty your trash when you do. 
 
-If you’re really in a mess, like your stalker is someone who works in law enforcement, take extra measures. Forget Google. Google knows all. Find yourself a gas station or convenience store with cameras that either don’t record, have no cameras, or cameras that are not attached to the internet. Buy a pay-as-you-go phone with cash from said store and buy your minutes there. You can then use this number to attach to Signal, the #1 encrypted messaging app if you still want to use your fancy smart phone. Private Internet Access is an amazing VPN for mobile. Use it all the time unless you absolutely can’t, such as when checking banking apps.   
+If you’re really in a mess, like your stalker is someone who works in law enforcement, take extra measures. 
+
+Forget Google. Google knows all. Find yourself a gas station or convenience store with cameras that either don’t record, have no cameras, or cameras that are not attached to the internet. 
+
+Buy a pay-as-you-go phone with cash from said store and buy your minutes there. You can then use this number to attach to Signal, the #1 encrypted messaging app if you still want to use your fancy smart phone. 
+
+Private Internet Access is an amazing VPN for mobile. Use it all the time unless you absolutely can’t, such as when checking banking apps.   
 
 
 ### Dealing with the Police
@@ -380,16 +390,25 @@ However, people mess up, even the pros. So be patient and wait for them to get s
 
 The best thing you can do is keep your nose as clean as possible so that if things ever do go to court (which I’m sorry to tell you is painful and unlikely), you can show that you are without a shred of doubt the sane one, here. 
 
-NEVER respond. No matter what crazy shit they say or do never say anything back because you have to show absolutely that you did not encourage their behavior in any way, and retaliating will only hurt your case. Also, if you don't give them any attention, they're likely to escalate and mess up sooner (or get bored and go on to harrass someone else). 
+NEVER respond. No matter what crazy shit they say or do never say anything back because you have to show absolutely that you did not encourage their behavior in any way, and retaliating will only hurt your case. 
+
+Also, if you don't give them any attention, they're likely to escalate and mess up sooner (or get bored and go on to harrass someone else). 
 
 In-person stalking is an entirely different matter. Security cameras, (possibly bodyguards) and having friends mobile-track you (Glympse/Family Locator), are all part of your life now. 
 
 Every time they show up, do not engage with them, call the police. Run and film over your shoulder, if you have to. 
 
-Let’s say every single day at 6pm, they call you and leave you a voicemail threatening you, reciting your home address… don’t panic. Keep the voicemail/save it to your camera roll if you want, call the non-emergency line every single day at 6:01 pm, and make a police report. So if they ever do actually hurt you, you’ve already got a STACK of police reports to 
-back you up. 
+Let’s say every single day at 6pm, they call you and leave you a voicemail threatening you, reciting your home address… don’t panic. 
 
-Collecting evidence and making a police report is your life line. Dates, specifics, screenshots/recordings, all of it. Everything matters. Delete nothing, even after the police have it. They’re not as organized as you’d think. Get your OWN binder to keep all of your print-out evidence and reports, organize them by date. 
+Keep the voicemail/save it to your camera roll if you want, call the non-emergency line every single day at 6:01 pm, and make a police report. 
+
+So if they ever do actually hurt you, you’ve already got a STACK of police reports to back you up. 
+
+Collecting evidence and making a police report is your life line. Dates, specifics, screenshots/recordings, all of it. Everything matters. 
+
+Delete nothing, even after the police have it. They’re not as organized as you’d think. 
+
+Get your OWN binder to keep all of your print-out evidence and reports, organize them by date. 
 
 I refer back to paparazzi laws frequently when it comes to in-person stalking. It’s completely legal for someone to sit outside your work and watch you, even take pictures of you walking down the street. You’re in a public place. They can legally approach you, wave their hands around and speak wordsalad. 
 
