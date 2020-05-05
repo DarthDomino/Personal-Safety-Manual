@@ -199,7 +199,13 @@ Really spend some time getting to know Little Snitch, it's your new best friend.
 
 Google what certain daemons do, what connections to look out for. Guaranteed there's an article on each one, somewhere. 
 
-SERIOUSLY, don't be lazy with it, when it asks you how long the connection is allowed, NEVER say "Forever" unless it's absolutely crucial to and you're SURE you know what it does. Which should only be like three things, such as automatic updates. Micro Snitch alerts you every single time your webcam or microphone is accessed. If you're watching Netflix and it turns on, you've got problems. 
+SERIOUSLY, don't be lazy with it, when it asks you how long the connection is allowed, NEVER say "Forever" unless it's absolutely crucial to and you're SURE you know what it does. 
+
+Which should only be like three things, such as automatic updates. 
+
+Micro Snitch alerts you every single time your webcam or microphone is accessed. 
+
+If you're watching Netflix and it turns on, you've got problems. 
 
 
 ### Windows 
