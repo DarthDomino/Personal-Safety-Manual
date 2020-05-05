@@ -308,7 +308,7 @@ This can become an issue so a port/router reset every few months helps dramatica
 
 If you are not a gamer or do not have gamers in your household, go to your Firewall settings and crank that ish up. 
 
-* Familiarize yourself with all the settings available. If for some reason you’re doing something one day and it doesn’t work,you’ll need to be able to get in and out easily to mess with the Firewall Security levels. 
+* Familiarize yourself with all the settings available. If for some reason you’re doing something one day and it doesn’t work, you’ll need to be able to get in and out easily to mess with the Firewall Security levels. 
 
 * Disable IPv6 entirely. 
 
