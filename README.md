@@ -16,6 +16,7 @@ so I encourage you to get into your own Wiki hole on the subject.
 I’ve provided some resources below to get you started. 
 
 
+
 Virtual Dumpster Fire
 ---------------------
 
@@ -36,6 +37,7 @@ you might as well have no password at all.
 I’ve left out Social Media entirely, but the best advice is to burn it. 
 
 If you must post, Latergram everything by at least a day.
+
 
 
 ### Mac 
@@ -61,6 +63,7 @@ Go have a snack. It might be a while.
 Once your Mac is squeaky clean create a NEW iCloud account and we’ll go over rebuilding and hardening in the next section. 
 
 
+
 ### Windows 
 
 Sign out of your Microsoft Account and everything else possible. 
@@ -80,6 +83,7 @@ Proceed to follow the instructions.
 If asked which you prefer, the fastest or the most secure, always select the most secure. 
 
 
+
 ### Email 
 
 This is when patience begins to play a part. I recently went through an entire Gmail account, with a Google Number attached to it (something I’ll cover in later sections). 
@@ -91,6 +95,7 @@ There’s a check box where you can select all emails. With Gmail you have to de
 Once you’re finished deleting them, you must go into your trash, select them all page by page again 
 and click “Permanently Delete.” 
 
+
 Google Hangouts Chat streams must be deleted individually, which in all honesty is a nightmare, but important and necessary.
 Leaving as small of a digital footprint as possible is smart no matter what you’ve got going on in your life. 
 
@@ -98,6 +103,7 @@ Leaving as small of a digital footprint as possible is smart no matter what you�
 ### Mobile 
 
 These steps are relatively the same for iPhone and Android. Sign out, reset, delete everything. 
+
 You can contact Apple and they will delete your entire iCloud account, so you can create a new one and start fresh. 
 
 
@@ -105,47 +111,61 @@ Rebuilding and Prevention
 -------------------------
 
 If you’ve made it this far, you’re hopefully already feeling more comfortable with your electronics. 
+
 There’s something freeing about having a clean slate. However, you’re not out of the woods, yet. 
-Did you know that if you leave your phone next to a radio on a Spanish channel over-night, when you wake up, 
-all of your ads will be in Spanish? So stick with me, kid and let’s knock this out. 
+
+Did you know that if you leave your phone next to a radio on a Spanish channel over-night, when you wake up, all of your ads will be in Spanish? So stick with me, kid and let’s knock this out. 
 
 
 ### Security Questions
 
 Make sure all of the answers to your security questions are WRONG. 
+
 Create a system for yourself, like "What is your mother's maiden name?" the answer would be "12" or "blonde." 
 You should be using LastPass (covered below in Passwords) and going through so many email addresses 
 this should never be much of a concern, anyway. 
 
+
 Create all new emails, create one for each of your payment apps, one for your iCloud, one for professional stuff, 
 one for family and friends. 
+
 Separate your accounts as much as possible so if one thing gets popped, you don't have to run around trying to 
 figure out what else is. 
+
 It's best practice to create ALL new emails and phone numbers every six months-year. 
 Drug dealers do this every single month, so do what you will with that information.  
+
 
 
 ### Payment Apps
 
 Your real name, transactions, (and sometimes your phone number, email/mailing address) are not private by default. 
+
 Create a separate username for your Venmo, CashApp and PayPal.
+
 Put your hangouts number instead of your real number. 
+
 Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
+
 
 
 ### Mac 
 
-Once your Mac is so fresh and so clean, it’s EXTREMELY important to go through these next steps immediately, 
-or you may get infected again and have to do the last steps all over. 
-Which I’ve had to do and I really kicked myself for it. 
+Once your Mac is so fresh and so clean, it’s EXTREMELY important to go through these next steps immediately, or you may get infected again and have to do the last steps all over. Which I’ve had to do and I really kicked myself for it. 
+
 Get a piece of duct-tape (I have a roll of Batman duct-tape just for this) and cover your Mac’s webcam. 
 Forget your webcam exists. Sorry ‘bout it. Trust me you don’t want it.
 
+
 Turn off Bluetooth, WiFi, IPv6 and everything you can when you’re not using them. This goes for mobile, too. 
+
 When you first login, you’re going to create your Admin password. 
+
 Your Admin account is where you get to have all the super powers. 
+
 Like downloading and installing new tools and programs, fixing security settings and everything we’re going to do 
 in this section.
+
 So next we’re going to create a Guest account that we’re actually going to live on and use every day (except right now). 
 This provides an extra step for a potential hacker to be able to get Admin privileges. 
 I won’t lie to you, it’s a very tiny step but it’s still a step. 
