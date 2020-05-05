@@ -122,6 +122,12 @@ Create a separate username for your Venmo, CashApp and PayPal.
 
 Put your hangouts number instead of your real number. 
 
+Virtual Addresses are available at places like PostScanMail.com. You can also use a P.O. Box or simply a past address. I don't have my actual address anywhere online, as all my bills are electronic, or even my driver's license. In fact, ESPECIALLY not on my driver's license. 
+
+Any profile/picture anywhere can be reverse Google image searched, so if that same image is on a profile with your real name, you can easily be found. 
+
+If you get emails notifying you to verify your account, DO NOT IGNORE IT. 
+
 Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
 
 
@@ -269,6 +275,8 @@ LastPass is here to save the day and solve your problems. Create one, really goo
 Remember it, and all the others will be randomly generated. 
 
 LastPass works in your Browser as a Chrome Extension, AND is available as an app! If you go to your vault, you can view passwords saved for applications and things not available in your browser and it autofills so you never have to type out another password again. 
+
+For iPhone in Settings > Passwords & Accounts > Wesite & App Passwords 
 
 As far as passwords for your devices, there’s only so much that you can do. Make sure that your admin and user passwords 
 are different, and if you have trouble thinking of more than one strong password, use LastPass and make sure the admin password is the strongest. 
