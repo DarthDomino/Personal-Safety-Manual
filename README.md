@@ -56,8 +56,9 @@ Once your Mac is squeaky clean create a NEW iCloud account and we’ll go over r
 * Sign out of your Microsoft Account and everything else possible. 
 * If you’re tech savvy, install a fresh copy of your OS to a USB/External Hard Drive, plug it in, go in to Safe Mode on Start-up and follow the instructions. 
 
-* If you’re not particularly tech savvy, in Settings, there should be the option for Change PC Settings. 
-* If you can’t find it, press the Windows Key and type “Change PC” and it should populate. 
+If you’re not particularly tech savvy, in Settings, there should be the option for Change PC Settings. 
+
+If you can’t find it, press the Windows Key and type “Change PC” and it should populate. 
 * Click “Update and Recovery” > “Recovery” 
 * Select “Remove Everything and Reinstall Windows”
 * Proceed to follow the instructions. 
