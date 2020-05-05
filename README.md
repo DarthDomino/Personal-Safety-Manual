@@ -375,15 +375,13 @@ Private Internet Access is an amazing VPN for mobile. Use it all the time unless
 ### Dealing with the Police
 
 Police will automatically assume it’s a petty lover’s spat, because that’s what they see a hundred times a day. 
-
 Be adamant. Be honest and open. Advocate for yourself. Don’t be afraid to be compassionately aggressive. 
 
 It’s their job to hear you out but keep in mind, it is not their job to save you. 
-
 On a real note: try not to cry - no one wants to deal with the crying girl; you’re a bad bitch you got this. 
 
-The internet is still like the wild west in terms of regulation. 
 
+The internet is still like the wild west in terms of regulation. 
 If done correctly, people can pretty much do and say whatever they want. 
 
 However, people mess up, even the pros. So be patient and wait for them to get sloppy, they always do. 
@@ -394,20 +392,17 @@ NEVER respond. No matter what crazy shit they say or do never say anything back 
 
 Also, if you don't give them any attention, they're likely to escalate and mess up sooner (or get bored and go on to harrass someone else). 
 
-In-person stalking is an entirely different matter. Security cameras, (possibly bodyguards) and having friends mobile-track you (Glympse/Family Locator), are all part of your life now. 
 
+In-person stalking is an entirely different matter. Security cameras, (possibly bodyguards) and having friends mobile-track you (Glympse/Family Locator), are all part of your life now. 
 Every time they show up, do not engage with them, call the police. Run and film over your shoulder, if you have to. 
 
 Let’s say every single day at 6pm, they call you and leave you a voicemail threatening you, reciting your home address… don’t panic. 
-
 Keep the voicemail/save it to your camera roll if you want, call the non-emergency line every single day at 6:01 pm, and make a police report. 
 
 So if they ever do actually hurt you, you’ve already got a STACK of police reports to back you up. 
-
 Collecting evidence and making a police report is your life line. Dates, specifics, screenshots/recordings, all of it. Everything matters. 
 
 Delete nothing, even after the police have it. They’re not as organized as you’d think. 
-
 Get your OWN binder to keep all of your print-out evidence and reports, organize them by date. 
 
 I refer back to paparazzi laws frequently when it comes to in-person stalking. It’s completely legal for someone to sit outside your work and watch you, even take pictures of you walking down the street. You’re in a public place. They can legally approach you, wave their hands around and speak wordsalad. 
