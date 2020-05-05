@@ -25,15 +25,15 @@ Take the time to upload pictures from your hard drive to Instagram, save resumes
 absolutely necessary gets deleted. 
 (No need to delete anything on the Hard Drive individually, as we will be doing a mass-reset). 
 
-
 If you see something and think, “That’s important, I should keep that,” that’s exactly what you need to be removing, 
 so leave it. Anything with any sort of personal information on it what-so-ever. If there’s any evidence that you like cats, 
 one of your passwords is associated to a cat you once had, and that cat is mentioned ONCE on the internet or hard drive, 
 you might as well have no password at all.
 
 I’ve left out Social Media entirely, but the best advice is to burn it. 
-
 If you must post, Latergram everything by at least a day.
+
+
 
 ### Mac 
 
