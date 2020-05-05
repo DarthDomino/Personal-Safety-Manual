@@ -21,52 +21,71 @@ Virtual Dumpster Fire
 
 In this case a literal dumpster fire would be much easier than this section. 
 Rule number one is to NOT GET FRUSTRATED. 
+
 Take the time to upload pictures from your hard drive to Instagram, save resumes to a USB, but make sure everything not 
 absolutely necessary gets deleted. 
 (No need to delete anything on the Hard Drive individually, as we will be doing a mass-reset). 
+
 
 If you see something and think, “That’s important, I should keep that,” that’s exactly what you need to be removing, 
 so leave it. Anything with any sort of personal information on it what-so-ever. If there’s any evidence that you like cats, 
 one of your passwords is associated to a cat you once had, and that cat is mentioned ONCE on the internet or hard drive, 
 you might as well have no password at all.
 
+
 I’ve left out Social Media entirely, but the best advice is to burn it. 
+
 If you must post, Latergram everything by at least a day.
 
 
 ### Mac 
 
 Sign out of iCloud and everything else possible. But especially iCloud. 
+
 Turn off Find My Mac and Un-encrypt FireVault, if encrypted. These are all found easily in your System Preferences. 
+
 If you have FireVault active, make sure you have a copy of your key before you deactivate it. 
+
 Shut down the system. 
+
 Hold down command and the R button, press the power button but don’t let go of command and R until you see the Apple loading screen. 
+
 Select the Disk Utility. > Continue 
+
 Erase. It will ask you if you’d prefer the fastest or the most secure, scroll all the way to most secure. 
+
 It once took an infected Mac I had, 20 hours to completely erase, so make sure you’re plugged in and just walk away. 
+
 Go have a snack. It might be a while. 
+
 Once your Mac is squeaky clean create a NEW iCloud account and we’ll go over rebuilding and hardening in the next section. 
 
 
 ### Windows 
 
 Sign out of your Microsoft Account and everything else possible. 
-If you’re tech savvy, install a fresh copy of your OS to a USB/External Hard Drive, plug it in, 
-go in to Safe Mode on Start-up and follow the instructions. 
+
+If you’re tech savvy, install a fresh copy of your OS to a USB/External Hard Drive, plug it in, go in to Safe Mode on Start-up and follow the instructions. 
+
 If you’re not particularly tech savvy, in Settings, there should be the option for Change PC Settings. 
+
 If you can’t find it, press the Windows Key and type “Change PC” and it should populate. 
+
 Click “Update and Recovery” > “Recovery” 
+
 Select “Remove Everything and Reinstall Windows”
+
 Proceed to follow the instructions. 
+
 If asked which you prefer, the fastest or the most secure, always select the most secure. 
 
 
 ### Email 
 
-This is when patience begins to play a part. I recently went through an entire Gmail account, 
-with a Google Number attached to it (something I’ll cover in later sections). 
-It was like working on an assembly line (the same action over and over), 
-but all in all the whole thing took me about an hour. 
+This is when patience begins to play a part. I recently went through an entire Gmail account, with a Google Number attached to it (something I’ll cover in later sections). 
+
+It was like working on an assembly line (the same action over and over), but all in all the whole thing took me about an hour. 
+
 
 There’s a check box where you can select all emails. With Gmail you have to delete them page by page. 
 Once you’re finished deleting them, you must go into your trash, select them all page by page again 
