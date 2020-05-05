@@ -420,7 +420,9 @@ Be just paranoid enough. Remember that at the end of the day you’ve got a leg 
 
 *You’re in the right. You’re doing the right thing.*
 
-Though things seem dark, just wait because you’ll get to tell your side one day. So stay calm, cool and collected because you’re going to win. 
+Though things seem dark, just wait because you’ll get to tell your side one day. 
+
+So stay calm, cool and collected because you’re going to win. 
 
 Either by letting it go, never dealing with it again, or sometimes even getting that mentally ill person the help they need.
 
