@@ -120,7 +120,7 @@ Drug dealers do this every single month, so do what you will with that informati
 
 Your real name, transactions, (and sometimes your phone number, email/mailing address) are not private by default. 
 
-Create a separate username for your Venmo, CashApp and PayPal.
+Create a (random) separate username for your Venmo, CashApp and PayPal.
 
 Put your hangouts number instead of your real number. 
 
@@ -134,7 +134,7 @@ Any profile/picture anywhere can be reverse Google image searched, so if that sa
 
 If you get emails notifying you to verify your account, DO NOT IGNORE IT. 
 
-Only allow contacts to search you and crank up any other security/privacy settings you see, always. 
+Do not allow anyone to search for you by Phone Number or Email Address, username ONLY and crank up any other security/privacy settings you see, always. 
 
 
 ### Mac 
