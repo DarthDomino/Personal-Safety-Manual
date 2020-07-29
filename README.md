@@ -31,7 +31,7 @@ one of your passwords is associated to a cat you once had, and that cat is menti
 you might as well have no password at all.
 
 I’ve left out Social Media entirely, but the best advice is to burn it. 
-If you must post, Latergram everything by at least a day.
+If you must post, Latergram everything by at least a day and make sure that you are NOT searchable by email or phone number.
 
 
 
@@ -367,7 +367,7 @@ Google Hangouts and Google Voice are apps that work together to create a new pho
 
 Anyone who is familiar with Hangouts will know this is not your real number. If someone asks or gets offended, tell them you like that you can send texts easier (which comes in handy when you’re copy/pasting) from the computer, which is true through your Gmail account. In order to get a Google Hangouts number, it must be attached to a real number, so it is difficult to get multiple without getting another burner phone anyway. 
 
-Your Google Hangouts and Google Voice should be under a NEW email address. Having an alternative number to give to strangers is extremely useful and convenient. If someone you don’t want to have your number gets ahold of it, you simply mute them or get a new Hangouts number. Keep as little conversation streams ass possible going when it comes to texts. Delete your emails as they come in and empty your trash when you do. 
+Your Google Hangouts and Google Voice should be under a NEW email address. Having an alternative number to give to strangers is extremely useful and convenient. If someone you don’t want to have your number gets ahold of it, you simply mute them or get a new Hangouts number. Keep as little conversation streams as possible going when it comes to texts. Delete your emails as they come in and empty your trash when you do. 
 
 If you’re really in a mess, like your stalker is someone who works in law enforcement, take extra measures. 
 
