@@ -471,3 +471,4 @@ Resources
 * https://stackoverflow.com/
 * https://github.com/
 * https://www.hacksplaining.com/
+* Penetration Testing: A Hands-on Introduction to Hacking by Georgia Weidman
