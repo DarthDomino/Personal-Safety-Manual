@@ -141,6 +141,8 @@ Do not allow anyone to search for you by Phone Number or Email Address, username
 
 Once your Mac is so fresh and so clean, it’s EXTREMELY important to go through these next steps immediately, or you may get infected again and have to do the last steps all over. Which I’ve had to do and I really kicked myself for it. 
 
+In the Finder window, under Favorites, click Applications, click Utilities, and then double-click Keychain Access. In the Keychain Access window, under Keychains, click login, under Category, click Certificates, and you should see your Code Signing Certificate, if your certificate was installed in your keychain.
+
 Get a piece of duct-tape (I have a roll of Batman duct-tape just for this) and cover your Mac’s webcam. 
 
 Forget your webcam exists. Sorry ‘bout it. Trust me you don’t want it.
@@ -473,3 +475,6 @@ Resources
 * https://www.hacksplaining.com/
 * https://www.youtube.com/channel/UC-1m-1yHfcC7-NJ7xKXxR4Q
 * Penetration Testing: A Hands-on Introduction to Hacking by Georgia Weidman
+
+
+
