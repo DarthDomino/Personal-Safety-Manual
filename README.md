@@ -2,7 +2,7 @@ Introduction: Off the Grid is for Everyone
 ==========================================
 
 Ever been stalked by a hacker? Well I have, and I'm sure many others have too. But you wouldn't know that because there's
-no How-To on how to get the hell out of that sticky situation. Until now. 
+no How-To on getting the hell out of that sticky situation. Until now. 
 
 Perhaps you were given this because something bad has happened. 
 The good news is that there’s help and (hopefully) you’re about to learn a bunch of cool stuff. 
