@@ -464,6 +464,8 @@ So stay calm, cool and collected because you’re going to win.
 
 Either by letting it go, never dealing with it again, or sometimes even getting that mentally ill person the help they need.
 
+"Clear thoughts lead to clean getaways." - G.L. Lambert (Ho Tactics)
+
 Resources  
 ---------
 
