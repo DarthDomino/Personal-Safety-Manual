@@ -415,7 +415,7 @@ Get your OWN binder to keep all of your print-out evidence and reports, organize
 
 I refer back to paparazzi laws frequently when it comes to in-person stalking. It’s completely legal for someone to sit outside your work and watch you, even take pictures of you walking down the street. You’re in a public place. They can legally approach you, wave their hands around and speak wordsalad. 
 
-However if someone blocks your path, touches you, comes on/takes photos of private property or chases you in a vehicle, THAT’S illegal (thanks to Britney Spears btw). These are the things you hope they do, and when they do, have your phone/dashcam ready. (Same goes for abusive relationships, if someone is screaming at you, whip that phone out queen). 
+However if someone blocks your path, touches you, comes on/takes photos of private property or chases you in a vehicle, THAT’S illegal (thanks to Britney Spears btw). These are the things you hope they do, and when they do, have your phone/dashcam ready. (Same goes for abusive relationships, if someone is screaming at you, whip that phone out). 
 
 If you have a dire, serious emergency and the police aren’t doing what they should, take it to social media. @ the District Attorney's office and Chief of Police in your area, get other people involved. The department really doesn’t like to look bad to the public, so Twitter actually does work for this. 
 
