@@ -477,7 +477,6 @@ Resources
 * https://www.hacksplaining.com/
 * https://www.youtube.com/channel/UC-1m-1yHfcC7-NJ7xKXxR4Q
 * Penetration Testing: A Hands-on Introduction to Hacking by Georgia Weidman
-* The Art of Social Engineering by Christopher Hadnagy 
 * Start Where You Are by Pema Chodron
 
 
